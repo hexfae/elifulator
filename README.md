@@ -2,7 +2,7 @@
 
 horrible meme code. for your own sake, don't run it.
 
-it creates `elifulator.py`, a calculator made up out of (mostly) python `if else` statements. inspired by this picture:
+it creates `elifulator.py`, a calculator made up out of (mostly) python `elif` statements. inspired by this picture:
 
 ![horrible meme code.](img/elif.jpg)
 
